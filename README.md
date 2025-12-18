@@ -41,7 +41,7 @@ Personal name is used in messages like:
 
 🔧 Game Controls
 
-▶️ Start Game
+▶️ Start Game 
 
 ⏸ Pause Game (disables clicking and freezes timer)
 
